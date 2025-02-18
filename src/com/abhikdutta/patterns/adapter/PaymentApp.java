@@ -9,7 +9,7 @@ public class PaymentApp {
 	
 	public static void main(String args[]) {
 		PaymentApp p = new PaymentApp();
-		p.pay(10000);
+		p.pay(12000);
 	}
 
 }
